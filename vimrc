@@ -156,4 +156,9 @@ map Y y$
 " next search
 nnoremap <C-L> :nohl<CR><C-L>
 
+nnoremap <C-Left> :tabprevious<CR>
+nnoremap <C-Right> :tabnext<CR>
+nnoremap <C-j> :tabprevious<CR>
+nnoremap <C-k> :tabnext<CR>
+
 "------------------------------------------------------------
